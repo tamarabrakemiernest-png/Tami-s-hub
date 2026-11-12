@@ -1,0 +1,8 @@
+{
+  "name": "ScripturePay - Bible Quiz & Cash Rewards",
+  "description": "Test your biblical knowledge, earn real cash rewards for correct Scripture answers, and withdraw instantly to Cash App, PayPal, Venmo, or crypto.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
